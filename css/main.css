@@ -2832,7 +2832,7 @@ input, select, textarea {
 /* Header */
 
 	#header {
-		padding: 8em 0 0.1em 0 ;
+		padding: 2em 0 0.1em 0 ;
 	}
 
 		#header .logo {
@@ -2861,7 +2861,9 @@ input, select, textarea {
 					width: 2em;
 					height: 2em;
 				}
+		/*Auth*/
 
+		/*Menu*/
 		#header nav {
 			position: fixed;
 			right: 2em;
@@ -2902,6 +2904,7 @@ input, select, textarea {
 						letter-spacing: 0.35em;
 						text-transform: uppercase;
 					}
+
 
 					#header nav ul li a[href="#menu"] {
 						-webkit-tap-highlight-color: transparent;
